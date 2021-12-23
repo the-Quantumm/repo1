@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Pacifico&display=swap");
+img {
+  border-radius: 10px;
+  width: 20%;
+  align-content: center;
+}
+body {
+  font-size: 30px;
+  background-color: plum;
+  font-family: "Montserrat", sans-serif;
+}
+h1 {
+  font-size: 40px;
+  color: aqua;
+}
+.st1 {
+  background-color: brown;
+}
+
+.st2 {
+  margin-top: 20%;
+  background-color: chocolate;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
